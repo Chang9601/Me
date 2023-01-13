@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.greeting {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.container {
+    height: 750px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.wrapper {
+    margin: 20px 0px 50px 20px;
+}
+
+.topic {
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.github {
+    text-decoration: none;
+}
